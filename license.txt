@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toytrain
+* source:	https://sketchfab.com/3d-models/toytrain-a1a58c48ae2246598e7d998384e624c2
+* author:	Hikari (https://sketchfab.com/sy16)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toytrain" (https://sketchfab.com/3d-models/toytrain-a1a58c48ae2246598e7d998384e624c2) by Hikari (https://sketchfab.com/sy16) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
